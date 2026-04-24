@@ -1,0 +1,12 @@
+body {
+    background-color:#ff6347;
+}
+
+@font-face {
+    font-family:'manifontgrotesk';
+    src: url(ManifontGroteskBook.woff) format('woff');
+}
+
+h1 {
+    font-family: 'manifontgrotesk';
+}
